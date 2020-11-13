@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Spotify to youtube", "Spotify to youtube\Spotify to youtube.pyproj", "{6DCFBD3E-C78D-4225-990A-AB4C79654837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCFBD3E-C78D-4225-990A-AB4C79654837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCFBD3E-C78D-4225-990A-AB4C79654837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EEDE00-8AEC-4E72-A4C7-67E05C2DA125}
+	EndGlobalSection
+EndGlobal
